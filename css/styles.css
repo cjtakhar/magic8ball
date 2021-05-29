@@ -60,3 +60,14 @@ margin: 0 auto;
   font-size: 2em;
   font-family: 'Oswald', sans-serif;
 }
+
+/* Media Query */
+@media (max-width: 1028px) {
+  .input-question {
+    margin: 10%;
+  }
+
+  .shake-btn {
+    margin: 10%;
+  }
+}
