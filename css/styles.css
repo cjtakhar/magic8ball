@@ -13,8 +13,12 @@ h1 {
   text-align: center;
   margin: 2%;
   border-radius: 25px;
-  color: #e1e5ea;
+  color: #222831;
   font-size: 1.5em;
+}
+
+::-webkit-input-placeholder {
+   color: #929aab;
 }
 
 .shake-btn {
@@ -23,7 +27,7 @@ h1 {
   background-color: #fff;
   margin: 2%;
   border-radius: 25px;
-  color: #a7bbc7;
+  color: #929aab;
   font-size: 1.5em;
 }
 
