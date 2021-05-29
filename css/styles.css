@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  padding: 3% 0 1%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.input-question {
+  height: 45px;
+  width: 225px;
+  text-align: center;
+  margin: 2%;
+  border-radius: 25px;
+  color: #e1e5ea;
+  font-size: 1.5em;
+}
+
+.shake-btn {
+  width: 105px;
+  height: 45px;
+  background-color: #fff;
+  margin: 2%;
+  border-radius: 25px;
+  color: #a7bbc7;
+  font-size: 1.5em;
+}
+
+.eight-ball {
+background-color: black;
+border: 1px solid black;
+border-radius: 50%;
+width: 300px;
+height: 300px;
+margin: 0 auto;
+}
+
+.eight {
+  font-size: 5em;
+  margin: 20% auto;
+  color: white;
+}
+
+.answer {
+  background-color: #333;
+  border: 1px solid #333;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  margin: 25% auto;
+}
+
+.response {
+  color: #e1e5ea;
+  font-size: 2em;
+  font-family: 'Oswald', sans-serif;
+}
