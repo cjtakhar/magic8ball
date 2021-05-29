@@ -28,7 +28,7 @@ button.addEventListener('click', function(){
     alert("Please enter a question");
   } else {
     eight.innerHTML = "";
-    const num = question.value.length % options.length;
+    const num = [Math.floor(Math.random() * options.length)];
     answer.innerHTML = options[num];
   }
 });
