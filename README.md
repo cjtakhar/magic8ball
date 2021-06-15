@@ -1,3 +1,3 @@
 # magiceightball
 
-A Magic Eight Ball program.
+A Magic Eight Ball random answer generator with event listener button. 
