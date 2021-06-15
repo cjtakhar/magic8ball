@@ -1,3 +1,3 @@
 # magiceightball
 
-A very simple Magic Eight Ball program.
+A Magic Eight Ball program.
