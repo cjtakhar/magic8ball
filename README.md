@@ -1,3 +1,3 @@
 # magic8ball
 
-A Magic Eight Ball random answer generator with event listener button. 
+A digital magic eight ball built with a simple javascript random number generator and an event listener button. 
